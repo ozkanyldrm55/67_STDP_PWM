@@ -1,4 +1,5 @@
-/* bu uygulamada ledler i = 0 dan 100 e kadar yavas yavas parlakligi artacak ve sonrasinda tam tersi sekilde parlakligi azalacak. */
+/* bu uygulamada pwm ile gerilim ayari yapmis olduk. 
+ledler i = 0 dan 100 e kadar yavas yavas parlakligi artacak ve sonrasinda tam tersi sekilde parlakligi azalacak. */
 
 #include "stm32f4xx.h"
 #include "stm32f4_discovery.h"
